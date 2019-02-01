@@ -7,6 +7,8 @@ If you want to send SMS via Laravel Notification class with the help of a custom
 - `App\Channels\SmsChannel;`
 - `App\Http\Controllers\HomeController` - An example use case
 
+To set up SMS credentials check `config\services.php`
+
 [Related reference in Laravel Documentation](https://laravel.com/docs/5.7/notifications#custom-channels).
 
 ##### - Thanks!
